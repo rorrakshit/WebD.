@@ -1,0 +1,59 @@
+body{
+    background-image: url("https://cdn.wallpapersafari.com/67/79/9arpdx.jpg");
+    /* width: 3000px;
+    height: 3000px; */
+    background-size: 100%;
+}
+hr{
+    border-width: 15px;
+    border-color: rgba(113, 87, 48, 0.865);
+    width: 70%;
+    border-radius: 7px;
+    margin-bottom: 35px;
+}
+.container
+{
+    margin:auto ;
+    background-color: rgb(218, 185, 135);
+    width: 660px;
+
+    height: 809px;
+    border:4px solid;
+    border-radius: 13px;
+}
+.in
+{
+    width: 590px;
+    height: 80px;
+    margin: 26px;
+    border-radius: 13px;
+    border: 4px solid rgba(109, 80, 6, 0.8);
+    font-size: 2rem;
+}
+.btn-div
+{
+    background-color: rgb(155, 132, 95);
+    width: 590px;
+    border-radius: 13px;
+    margin: 26px;
+    padding: 10px;
+}
+button{
+    width: 123px;
+    height: 100px;
+    border-radius: 29px;
+    margin:10px;
+    font-weight: 545;
+    font-size:1.8rem;
+    border: hidden;
+}
+.btn0{
+    width: 268px;
+}
+button:hover{
+    background-color: blanchedalmond;
+    box-shadow: 0.5cm blue;
+}
+button::before{
+    background-color: brown;
+}
